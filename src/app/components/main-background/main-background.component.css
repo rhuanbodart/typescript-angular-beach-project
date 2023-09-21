@@ -1,0 +1,140 @@
+.praia-padres {
+    transform: translate(870px, 620px);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+.praia-padres > p {
+    width: 200px;
+    text-align: top;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.praia-padres > a > svg {
+    color: red;
+    width: 50px;
+}
+
+.praia-padres > a > svg:hover {
+    color: rgb(27, 12, 231);
+    transform: scale(1.2);
+}
+
+.praia-bacutia {
+    transform: translate(1300px, 350px);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+.praia-bacutia > p {
+    width: 200px;
+    text-align: top;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.praia-bacutia > a > svg {
+    color: red;
+    width: 50px;
+}
+
+.praia-bacutia > a > svg:hover {
+    color: rgb(27, 12, 231);
+    transform: scale(1.2);
+}
+
+.praia-peracanga {
+    transform: translate(1600px, 70px);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+.praia-peracanga > p {
+    width: 200px;
+    text-align: top;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.praia-peracanga > a > svg {
+    color: red;
+    width: 50px;
+}
+
+.praia-peracanga > a > svg:hover {
+    color: rgb(27, 12, 231);
+    transform: scale(1.2);
+}
+
+.praia-guaibura {
+    transform: translate(2000px, -100px);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+.praia-guaibura > p {
+    width: 200px;
+    text-align: top;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.praia-guaibura > a > svg {
+    color: red;
+    width: 50px;
+}
+
+.praia-guaibura > a > svg:hover {
+    color: rgb(27, 12, 231);
+    transform: scale(1.2);
+}
+
+.content__main-title {
+    width: 600px;
+    height: 750px;
+    margin-top: -500px;
+    margin-left: 100px;
+    padding-top: 25px;
+    background-color: rgba(182, 181, 181, 0.555);
+    border-radius: 15px;
+    color: white;
+}
+
+.content__main-title > h1 {
+    font-size: 36px;
+    text-align: center;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.content__main-title > h3 {
+    padding: 40px;
+    text-align: justify;
+   font-weight: 400;
+}
+

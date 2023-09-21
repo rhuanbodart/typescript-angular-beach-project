@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI';
+    text-decoration: none;
+}
+
+body {
+    background-image: url('../assets/enseada.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    display: block;
+}
+
+
+  
+  
