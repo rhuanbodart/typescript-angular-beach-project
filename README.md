@@ -1,6 +1,6 @@
 ## BeachProject
 
-![Watch the video](assets/video-test.webm)
+![Simulation](assets/video-gif.gif)
 
 If you don't know Guarapari/ES - Brazil, it's the time to know. 
 
